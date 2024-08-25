@@ -3,7 +3,8 @@
 ### Important information
 
 We use python 3.12 and Pytorch 2.4 and for simulations.
-....
+
+If you find simulator (or parts of it) helpful for your publication, please kindly cite our paper:
 
 
 
