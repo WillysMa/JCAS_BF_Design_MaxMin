@@ -12,12 +12,13 @@ Download the whole project to your local worksation.
 
 Run the 'TC_Fig.py' and 'Converg_Fig.py'. You will get the figures of convergence, time cost, and SINR(SCNR) comparison.
 
-## Deep unfolding for  hybrid beamformining design
-Run the 'main.py' in the file *Deep_unfolding* and you will get the data that can be compared to other schemes.
 
 
 
-The simulator runs with predefined parameters. You can specify your own system and simulation parameters. More details about the parameters are suggestted to read the paper. 
+# How to retrain a new model?
+- Config 'SysParams.py'
+- Run the 'main.py'
+You will get the data that can be compared to other schemes. You can specify your own system and simulation parameters. More details about the parameters are suggestted to read the paper. 
 
 We highly recommend you to execute the code step-by-step (using PyCharm's debug mode) in order to get a detailed understanding of the simulator.
 
