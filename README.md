@@ -1,4 +1,4 @@
-# Simulator for "Model-based Machine Learning for Beamforming Design in Multi-user Multi-Target JCAS Systems"
+# Simulator for "Model-based Machine Learning for Max-Min Fairness Beamforming Design in JCAS Systems"
 
 ### Important information
 
