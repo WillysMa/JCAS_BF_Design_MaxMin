@@ -6,7 +6,8 @@ We use python 3.12 and Pytorch 2.4 and for simulations.
 
 If you find simulator (or parts of it) helpful for your publication, please kindly cite our paper:
 
-
+M. Ma, T. Fang, N. Shlezinger, A. Swindlehurst, M. Juntti, and N. Nguyen, “Model-based machine learning for max-min
+fairness beamforming design in JCAS systems,” arXiv preprint arXiv:2409.17644, 2024.
 
 # How to start a simulation
 Download the whole project to your local worksation.
